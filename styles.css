@@ -58,3 +58,10 @@ header {
   color: #555;
   font-size: 14px;
 }
+
+.profile-pic {
+  width: 150px;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 12px;
+}
